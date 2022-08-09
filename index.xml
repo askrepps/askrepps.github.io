@@ -8,12 +8,26 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 08 Aug 2022 22:48:00 -0400</lastBuildDate><atom:link href="https://askrepps.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Game Jam Projects</title>
+      <link>https://askrepps.github.io/game-jams/</link>
+      <pubDate>Tue, 09 Aug 2022 16:36:30 -0400</pubDate>
+      
+      <guid>https://askrepps.github.io/game-jams/</guid>
+      <description>While I was a student at Penn State University, I was an officer in the Game Development Club and facilitated several weekend game jam events where students would build games based on a theme.
+Here are the games I created during these events using Slick2D for Java.
+Look Beyond Look Beyond is the game I submitted for the 2014 Global Game Jam based on the theme:
+&amp;ldquo;We don&amp;rsquo;t see things as they are, we see them as we are.</description>
+    </item>
+    
+    <item>
       <title>Nonogram Solver</title>
       <link>https://askrepps.github.io/nonogram-solver/</link>
       <pubDate>Mon, 08 Aug 2022 16:36:30 -0400</pubDate>
       
       <guid>https://askrepps.github.io/nonogram-solver/</guid>
-      <description>You must have JavaScript enabled to use this application</description>
+      <description>This is a basic web UI built in Kotlin/JS to demonstrate the nonogram solver I built as a Kotlin multiplatform library.
+Check out the GitHub Repository here.
+You must have JavaScript enabled to use this application</description>
     </item>
     
   </channel>
